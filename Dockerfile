@@ -1,7 +1,7 @@
 FROM ubuntu:20.04
 
 LABEL maintainer="chavi" \
-      name="mcsrv" \
+      name="docker-minecraft" \
       version="1.0"
 
 #set env variables
